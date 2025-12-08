@@ -1,0 +1,11 @@
+C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\bin\Debug\ileri Programlama.exe.config
+C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\bin\Debug\ileri Programlama.exe
+C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\bin\Debug\ileri Programlama.pdb
+C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri Programlama.csproj.AssemblyReference.cache
+C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri_Programlama.Form1.resources
+C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri_Programlama.Properties.Resources.resources
+C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri Programlama.csproj.GenerateResource.cache
+C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri Programlama.csproj.CoreCompileInputs.cache
+C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri Programlama.exe
+C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri Programlama.pdb
+C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri Programlama.exe.config

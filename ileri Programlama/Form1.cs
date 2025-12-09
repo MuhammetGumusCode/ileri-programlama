@@ -1,11 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Globalization;
+using System.Globalization;
+using System.Reflection.Emit;
+using System.Threading;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace ileri_Programlama
@@ -21,5 +20,17 @@ namespace ileri_Programlama
         {
 
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+      
+
+
+
+
+
     }
 }

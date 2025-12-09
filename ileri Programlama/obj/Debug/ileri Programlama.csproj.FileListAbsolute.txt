@@ -9,3 +9,20 @@ C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri Prog
 C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri Programlama.exe
 C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri Programlama.pdb
 C:\VisualStüdyoC#\Form\ileri Programlama\ileri Programlama\obj\Debug\ileri Programlama.exe.config
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\bin\Debug\ileri Programlama.exe.config
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\bin\Debug\ileri Programlama.exe
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\bin\Debug\ileri Programlama.pdb
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\ileri Programlama.csproj.AssemblyReference.cache
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\ileri Programlama.exe.config
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\ileri_Programlama.Form1.resources
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\ileri_Programlama.Properties.Resources.resources
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\ileri Programlama.csproj.GenerateResource.cache
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\ileri Programlama.csproj.CoreCompileInputs.cache
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\ileri Programlama.exe
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\ileri Programlama.pdb
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\ileri_Programlama.Strings.en.resources
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\ileri_Programlama.Strings.tr.resources
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\bin\Debug\en\ileri Programlama.resources.dll
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\bin\Debug\tr\ileri Programlama.resources.dll
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\en\ileri Programlama.resources.dll
+C:\VisualStudyoCSharp\Form\ileriProgramlama\ileri Programlama\obj\Debug\tr\ileri Programlama.resources.dll

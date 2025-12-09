@@ -12,6 +12,8 @@
     "en"
   ],
   "VisibleColumnKeys": [
-    "name"
+    "name",
+    "en",
+    "tr"
   ]
 }

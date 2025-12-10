@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|c:\\visualstudyocsharp\\form\\ileriprogramlama\\ileri programlama\\strings.en.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|solutionrelative:ileri programlama\\strings.en.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|c:\\visualstudyocsharp\\form\\ileriprogramlama\\ileri programlama\\strings.tr.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|solutionrelative:ileri programlama\\strings.tr.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|c:\\visualstudyocsharp\\form\\ileriprogramlama\\ileri programlama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|solutionrelative:ileri programlama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri programlama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|c:\\visualstudyocsharp\\form\\ileriprogramlama\\ileri programlama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|solutionrelative:ileri programlama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri programlama\\strings.en.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|solutionrelative:ileri programlama\\strings.en.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri programlama\\strings.tr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|solutionrelative:ileri programlama\\strings.tr.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri programlama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DD730F-D8B7-4034-9F0E-FA24AD645847}|ileri Programlama\\ileri Programlama.csproj|solutionrelative:ileri programlama\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,71 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Strings.tr.resx",
-              "DocumentMoniker": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri Programlama\\Strings.tr.resx",
-              "RelativeDocumentMoniker": "ileri Programlama\\Strings.tr.resx",
-              "ToolTip": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri Programlama\\Strings.tr.resx",
-              "RelativeToolTip": "ileri Programlama\\Strings.tr.resx",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAvwLcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-09T09:38:02.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Strings.en.resx",
-              "DocumentMoniker": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri Programlama\\Strings.en.resx",
-              "RelativeDocumentMoniker": "ileri Programlama\\Strings.en.resx",
-              "ToolTip": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri Programlama\\Strings.en.resx",
-              "RelativeToolTip": "ileri Programlama\\Strings.en.resx",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAvwLcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-09T09:27:45.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Strings.en.Designer.cs",
-              "DocumentMoniker": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri Programlama\\Strings.en.Designer.cs",
-              "RelativeDocumentMoniker": "ileri Programlama\\Strings.en.Designer.cs",
-              "ToolTip": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri Programlama\\Strings.en.Designer.cs",
-              "RelativeToolTip": "ileri Programlama\\Strings.en.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T09:17:50.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Strings.tr.Designer.cs",
-              "DocumentMoniker": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri Programlama\\Strings.tr.Designer.cs",
-              "RelativeDocumentMoniker": "ileri Programlama\\Strings.tr.Designer.cs",
-              "ToolTip": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri Programlama\\Strings.tr.Designer.cs",
-              "RelativeToolTip": "ileri Programlama\\Strings.tr.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T09:17:47.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri Programlama\\Form1.cs",
               "RelativeDocumentMoniker": "ileri Programlama\\Form1.cs",
               "ToolTip": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri Programlama\\Form1.cs",
               "RelativeToolTip": "ileri Programlama\\Form1.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAgwGYAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwGYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T07:08:54.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\VisualStudyoCSharp\\Form\\ileriProgramlama\\ileri Programlama\\Form1.cs",
               "RelativeDocumentMoniker": "ileri Programlama\\Form1.cs",
